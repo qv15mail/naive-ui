@@ -4,7 +4,7 @@
 
 <template>
   <n-row gutter="12">
-    <n-col :span="6">
+    <n-col :span="4">
       <div class="light-green" />
     </n-col>
     <n-col :span="6">
